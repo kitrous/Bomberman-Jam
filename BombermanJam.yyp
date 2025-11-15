@@ -23,9 +23,11 @@
   "name":"BombermanJam",
   "resources":[
     {"id":{"name":"oBomberman","path":"objects/oBomberman/oBomberman.yy",},},
+    {"id":{"name":"oCamera","path":"objects/oCamera/oCamera.yy",},},
     {"id":{"name":"oWall","path":"objects/oWall/oWall.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"sBlock","path":"sprites/sBlock/sBlock.yy",},},
+    {"id":{"name":"sBomb","path":"sprites/sBomb/sBomb.yy",},},
     {"id":{"name":"sBomber","path":"sprites/sBomber/sBomber.yy",},},
     {"id":{"name":"sBomberWalk","path":"sprites/sBomberWalk/sBomberWalk.yy",},},
     {"id":{"name":"sBomberWalkL","path":"sprites/sBomberWalkL/sBomberWalkL.yy",},},
