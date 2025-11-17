@@ -22,6 +22,7 @@
   },
   "name":"BombermanJam",
   "resources":[
+    {"id":{"name":"oBomb","path":"objects/oBomb/oBomb.yy",},},
     {"id":{"name":"oBomberman","path":"objects/oBomberman/oBomberman.yy",},},
     {"id":{"name":"oCamera","path":"objects/oCamera/oCamera.yy",},},
     {"id":{"name":"oWall","path":"objects/oWall/oWall.yy",},},

@@ -4,8 +4,13 @@ var _left = keyboard_check(ord("A"));
 var _up = keyboard_check(ord("W"));
 var _down = keyboard_check(ord("S"));
 
+
 var _xinput = _right - _left;
 var _yinput = _down - _up;
+
+if (keyboard_check_direct(vk_enter)) {
+	instance_create_layer(oBomberman.x-8,oBomberman.y-8,"instances",oBomb);
+}
 
 
 
